@@ -47,7 +47,10 @@ An IoT-based weather monitoring system built using ESP32 and OpenWeatherMap API.
 
 ## Output Screenshot
 
-<img width="430" height="411" alt="Screenshot 2026-06-07 130629" src="https://github.com/user-attachments/assets/cf3e6be9-a256-44f4-a428-c06e1f6eb0e7" />
+<img width="792" height="182" alt="Screenshot 2026-06-07 130658" src="https://github.com/user-attachments/assets/2adc484c-22f2-44bc-881b-1f6ea86b844b" />
+<img width="430" height="411" alt="Screenshot 2026-06-07 130629" src="https://github.com/user-attachments/assets/f38d5ff0-fb70-4eb7-b8e2-42ef8c4fd72d" />
+<img width="431" height="401" alt="Screenshot 2026-06-07 130645" src="https://github.com/user-attachments/assets/b577b898-bf0b-4d8e-b844-b82be6cb254b" />
+
 
 
 ## Author
